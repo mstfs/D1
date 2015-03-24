@@ -84,3 +84,4 @@ STATIC_URL = '/static/'
 
 
 
+## demo2
